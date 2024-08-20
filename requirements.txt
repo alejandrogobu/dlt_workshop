@@ -1,0 +1,6 @@
+ipykernel
+requests
+dlt
+dlt[duckdb]
+numpy
+pandas
