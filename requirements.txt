@@ -4,3 +4,4 @@ dlt
 dlt[duckdb]
 numpy
 pandas
+logging
